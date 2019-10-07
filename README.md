@@ -4,3 +4,6 @@ Thanks to TianyeAlex,this reposity is based on his work(https://github.com/Tiany
 
 ## Build Environments:
  Opencv 3.3.1 + Ubuntu 16.04 + ROS kinetic 
+
+## Results
+![demo](https://github.com/LeisureLei/Pedestrian-Automatic_Detection_and_Tracking/blob/master/track_demo.gif)
